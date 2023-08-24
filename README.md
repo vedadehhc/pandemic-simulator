@@ -1,5 +1,5 @@
 # Pandemic Simulator 
-This app was initially released in April 2020 via web and Android app in response to the COVID-19 pandemic. It has been relocated to this GitHub repository as of August 2023 for longevity. The source code will be added soon for those who are interested.
+This app was initially released in April 2020 via web and Android app in response to the COVID-19 pandemic. It has been relocated to this GitHub repository as of August 2023 for longevity. The source code has also been added for those who are interested.
 
 You can access the web app [here](build/PandemicSimulator.html).
 The simulator is also available for download on Android [here](https://play.google.com/store/apps/details?id=com.madmobileapps.PandemicSimulator).
